@@ -3,7 +3,7 @@ mod tests;
 
 mod assets;
 mod bin_package;
-mod cli;
+pub mod cli;
 mod dotenvs;
 mod end2end;
 mod lib_package;
